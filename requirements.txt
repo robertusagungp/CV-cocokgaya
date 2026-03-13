@@ -2,3 +2,6 @@ streamlit
 groq
 pdfplumber
 python-docx
+streamlit
+psycopg2-binary
+pandas
